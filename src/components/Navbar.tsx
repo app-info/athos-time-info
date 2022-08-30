@@ -6,7 +6,7 @@ interface Props {
   language: string;
   setLanguage: Dispatch<SetStateAction<string>>;
 }
-const logo = require("../assets/images/agioiPantes.png");
+const logo = require("../assets/images/athos.jpeg");
 
 const Navbar: FC<Props> = ({ language, setLanguage }) => {
   return (
