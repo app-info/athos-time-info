@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/athos-time-info/static/css/main.74efa5db.css",
-    "main.js": "/athos-time-info/static/js/main.3f895af6.js",
+    "main.js": "/athos-time-info/static/js/main.a58bca84.js",
     "static/media/athos.jpeg": "/athos-time-info/static/media/athos.4d9251ec7efdf2378192.jpeg",
     "static/media/google-play-badgeGR.png": "/athos-time-info/static/media/google-play-badgeGR.53c2ecdb7d5afa1746f4.png",
     "static/media/google-play-badgeEN.png": "/athos-time-info/static/media/google-play-badgeEN.f902960a94878ee0da67.png",
     "index.html": "/athos-time-info/index.html",
     "main.74efa5db.css.map": "/athos-time-info/static/css/main.74efa5db.css.map",
-    "main.3f895af6.js.map": "/athos-time-info/static/js/main.3f895af6.js.map"
+    "main.a58bca84.js.map": "/athos-time-info/static/js/main.a58bca84.js.map"
   },
   "entrypoints": [
     "static/css/main.74efa5db.css",
-    "static/js/main.3f895af6.js"
+    "static/js/main.a58bca84.js"
   ]
 }
